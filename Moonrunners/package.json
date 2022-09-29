@@ -1,0 +1,33 @@
+{
+  "name": "moonrunners",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assematt/Moonrunners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assematt/Moonrunners/issues"
+  },
+  "homepage": "https://github.com/assematt/Moonrunners#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^1.0.0",
+    "easeljs": "^1.0.2",
+    "jquery": "^3.4.0",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2"
+  }
+}
